@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, It's Amberon</h1>
 <h3 align="center">A guy wondering about our existence.</h3>
 
-- 📲 Wanna talk **Drop a DM [Here]("https://www.youtube.com")**
+- 📲 Wanna talk **Drop a DM [Here](https://discordapp.com/users/680439773021601838)**
 
 - 🌱 I’m currently learning **Swift and IOS development**
 
