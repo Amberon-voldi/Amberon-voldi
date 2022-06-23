@@ -1,4 +1,4 @@
-<img align="center" src="https://cdn.discordapp.com/attachments/806516064820133918/989615651847045130/png-development-modules-development-460.png" alt="amberon_voldi" height="100" width="80" />
+<img align="center" src="https://cdn.discordapp.com/attachments/806516064820133918/989615651847045130/png-development-modules-development-460.png" alt="amberon_voldi" height="100" width="150" />
 <h1 align="center">Hi 👋, It's Amberon</h1>
 <h3 align="center">A guy wondering about our existence.</h3>
 
