@@ -1,7 +1,17 @@
-<img align="center" src="https://cdn.discordapp.com/attachments/806516064820133918/989615651847045130/png-development-modules-development-460.png" alt="amberon_voldi" height="100" width="150" />
+<center><p align="center"><img align="center" src="https://cdn.discordapp.com/attachments/806516064820133918/989615651847045130/png-development-modules-development-460.png" alt="amberon_voldi" height="200" width="290" </p><center>
 <h1 align="center">Hi 👋, It's Amberon</h1>
 <h3 align="center">A guy wondering about our existence.</h3>
 
+- 📲 Wanna talk **Drop a DM [Here]("https://www.youtube.com")**
+
+- 🌱 I’m currently learning **Swift and IOS development**
+
+- 🤝 I’m looking for help with **Backend Stuff**
+
+- 💬 Ask me about **Flutter, JS and Python**
+
+- 📫 Contact me on **amberonvoldimoth@gmail.com**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amberon_voldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amberon_voldi" height="30" width="40" /></a>
