@@ -1,4 +1,4 @@
-<center><p align="center"><img align="center" src="https://cdn.discordapp.com/attachments/806516064820133918/989615651847045130/png-development-modules-development-460.png" alt="amberon_voldi" height="200" width="290" </p><center>
+<center><p align="center"><img align="center" src="https://raw.githubusercontent.com/Amberon-voldi/Amberon-voldi/main/images/dev-png.png" alt="amberon_voldi" height="330" width="300" </p><center>
 <h1 align="center">Hi 👋, I'm Amberon</h1>
 <h3 align="center">Just a guy</h3>
 
